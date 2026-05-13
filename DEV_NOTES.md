@@ -13,3 +13,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added .editorconfig for consistent formatting
 - Refactored module structure for clarity
 - Fixed off-by-one error in loop
+
+## 2026-05-13
+- Reorganised test fixtures
+- Consolidated duplicate helper functions
